@@ -1,0 +1,38 @@
+{
+  "guitars": [
+    {
+      "id": 1,
+      "manufacturer": "Gibson",
+      "model": "Les Paul",
+      "year": "1959"
+    },
+    {
+      "id": 2,
+      "manufacturer": "Gibson",
+      "model": "Les Paul",
+      "year": "1957"
+    },
+    {
+      "id": 3,
+      "manufacturer": "Gibson",
+      "model": "Flying-V",
+      "year": "1979"
+    },
+    {
+      "id": 4,
+      "manufacturer": "Gibson",
+      "model": "Explorer",
+      "year": "1979"
+    },
+    {
+      "id": 5,
+      "manufacturer": "Gibson",
+      "model": "Explorer",
+      "year": "1984"
+    }
+  ],
+  "profile": {
+    "name": "Danny Spanos",
+    "username": "dspanos"
+  }
+}
